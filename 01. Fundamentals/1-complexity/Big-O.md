@@ -96,7 +96,7 @@ Salida: falso
 3. Compara los caracteres y avanza hacia el centro.
 ```
 
-Una posible solucion es
+**Una posible solucion es:**
 
 1- Recibe una cadena
 
